@@ -1,1 +1,2 @@
-# TEO015
+int totalElements = friends.length;
+bla bla 
